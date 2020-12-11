@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">NoteToGokhanSoyalp</string>
+    <string name="film_db">Film Veritabanı</string>
+    <string name="item_name">isim</string>
+    <string name="item_genre">tür</string>
+    <string name="item_imdb">imdb</string>
+    <string name="item_lang">dil</string>
+
+    //Yeni film ekleme
+
+    <string name="add_new_movie">Yeni Film Ekle</string>
+    <string name="add_name">Film Ismi</string>
+    <string name="add_genre">Film Türü</string>
+    <string name="add_imdb_point">IMDB Puanı</string>
+    <string name="add_languages">Film Dili</string>
+    <string name="film_info">Film Bilgileri</string>
+
+    //Ekleme ekranı buttonları
+    <string name="button_add">EKLE</string>
+    <string name="button_cancel">IPTAL</string>
+    <string name="button_done">BITTI</string>
+
+    <string name="save_settings">Ayarları Kaydet</string>
+    <string name="settings">Ayarlar</string>
+    <string name="change_lang">Dili Degistir</string>
+    <string name="choose_lang">Dili Seç</string>
+
+    // Languages
+    <string name="en">Ingilizce</string>
+    <string name="tr">Türkçe</string>
+    <string name="es">Ispanyolca</string>
+</resources>

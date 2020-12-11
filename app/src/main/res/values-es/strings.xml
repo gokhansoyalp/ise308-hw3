@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">NoteToGokhanSoyalp</string>
+    <string name="film_db">Base de datos de películas</string>
+    <string name="item_name">nombre</string>
+    <string name="item_genre">género</string>
+    <string name="item_imdb">imdb</string>
+    <string name="item_lang">idioma</string>
+
+    //Yeni film ekleme
+
+    <string name="add_new_movie">Agregar nueva película</string>
+    <string name="add_name">Nombre de la película</string>
+    <string name="add_genre">Género cinematográfico</string>
+    <string name="add_imdb_point">Punto IMDB</string>
+    <string name="add_languages">Lenguaje cinematográfico</string>
+    <string name="film_info">Información de la película</string>
+
+    //Ekleme ekranı buttonları
+    <string name="button_add">Añadir</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="button_done">Hecho</string>
+
+    <string name="save_settings">Guardar ajustes</string>
+    <string name="settings">Ajustes</string>
+    <string name="change_lang">Cambiar idioma</string>
+    <string name="choose_lang">Elige lengua</string>
+
+    // Languages
+    <string name="en">Inglés</string>
+    <string name="tr">Turco</string>
+    <string name="es">Español</string>
+</resources>

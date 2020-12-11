@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    #for main activy
+    <dimen name="mainpaddingleft">10dp</dimen>
+    <dimen name="maintextsize">30sp</dimen>
+    <dimen name="btn_layout_width">120dp</dimen>
+    <dimen name="btn_layout_height">73dp</dimen>
+    <dimen name="fab_margin">20dp</dimen>
+    <dimen name="rv_padding_left">10dp</dimen>
+    <dimen name="rv_padding_top">30dp</dimen>
+
+    #for activity settings
+    <dimen name="scroll_bar_size">20dp</dimen>
+    <dimen name="scroll_text_size">20sp</dimen>
+
+
+    #for dialog new film
+    <dimen name="layout_padding">20dp</dimen>
+    <dimen name="et_image_text">25sp</dimen>
+    <dimen name="btn_cancel_marginleft">20dp</dimen>
+
+    #for dialog show film
+    <dimen name="text_size">25sp</dimen>
+    <dimen name="text_size_sub">20sp</dimen>
+
+    #for film item
+    <dimen name="layout_item_padding">8dp</dimen>
+    <dimen name="tv_text_size_title">25sp</dimen>
+    <dimen name="tv_text_size_sub">25sp</dimen>
+    <dimen name="text_padding">5dp</dimen>
+</resources>
